@@ -93,6 +93,8 @@ interface CHALLENGE_INTERFACE {
 
 ## Code Challenge
 
+URl of the project: [nuxt-todo-app](https://nuxt-todo-app-andres-campuzano.vercel.app/)
+
 ```bash
 # clone repo
 

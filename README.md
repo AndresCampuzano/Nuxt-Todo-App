@@ -38,6 +38,8 @@ However, from the initial page load and some seconds later inside a loop, there 
 
 ### Major JS framework used
 
+Nuxt.JS is the biggest JS framework in production, with a bundle size of 91.6 bk.
+
 ### Definition for given JSON response
 
 ```typescript

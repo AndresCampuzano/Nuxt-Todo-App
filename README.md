@@ -1,5 +1,18 @@
 # Andres Campuzano Garzon - Frontend Challenge
 
+<!-- TOC -->
+* [Andres Campuzano Garzon - Frontend Challenge](#andres-campuzano-garzon---frontend-challenge)
+  * [Networking/Debugging](#networkingdebugging)
+    * [External domains called](#external-domains-called)
+    * [`Content-Type` headers in POST request of the initial page load](#content-type-headers-in-post-request-of-the-initial-page-load)
+    * [Major JS framework used](#major-js-framework-used)
+    * [Definition for given JSON response](#definition-for-given-json-response)
+  * [Code Challenge](#code-challenge)
+    * [Jest tests](#jest-tests)
+    * [e2e Cypress tests](#e2e-cypress-tests)
+    * [A11y (Accessibility)](#a11y--accessibility-)
+<!-- TOC -->
+
 ## Networking/Debugging
 
 ### External domains called
